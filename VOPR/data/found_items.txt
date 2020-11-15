@@ -1,0 +1,1 @@
+medicine chest|Sunday 15, November at 14:08|<Pose: <Position x: 0.00 y: 0.00 z: 0.00> <Quaternion q0: 1.00 q1: 0.00 q2: 0.00 q3: -0.00 <Angle Radians: -0.00 Degrees: -0.06>> <Origin Id: 41>>

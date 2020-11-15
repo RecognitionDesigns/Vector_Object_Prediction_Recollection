@@ -59,7 +59,7 @@ with open("data/found_items.txt", 'r') as f:
 #option to print out the lines from the found_items.txt file  
 #print(locate)
 
-with anki_vector.AsyncRobot('0050169f') as robot:
+with anki_vector.AsyncRobot() as robot:
     robot.behavior.set_head_angle(anki_vector.util.degrees(33.0))
     robot.behavior.say_text(str(locate).replace("'", " "))
     image_screen()

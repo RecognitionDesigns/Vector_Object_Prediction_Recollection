@@ -15,6 +15,7 @@ Create the directories 'pictures/predicted' in same directory as the scripts.
 
 Run the ObjectPrediction.py script first to get Vector to predict objects and build a data text file.
 Then run the Recollection.py script anytime afterwards to get Vector to tell you what he's seen.
+You may have to delete the 'found_items.txt' file if it gets too big as Vector hangs when he should be speaking the text.
 
 Feel free to fork and modify the scripts, I'm sure they could be refined and made more efficient!
 

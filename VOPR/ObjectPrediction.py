@@ -27,7 +27,7 @@ import time
 from datetime import date, datetime
 import sys
 
-robot = anki_vector.Robot('0050169f')
+robot = anki_vector.Robot()
 robot.connect()
 d = robot.proximity.last_sensor_reading.distance
 distance = int(d.distance_mm)
